@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cyberfox</key>
+	<string>http://cyberfox.com.au/feeds.xml</string>
+	<key>Natio</key>
+	<string>http://natio.com.au/feeds.xml</string>
+</dict>
+</plist>

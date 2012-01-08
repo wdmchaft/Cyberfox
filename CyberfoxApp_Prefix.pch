@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'CyberfoxApp' target in the 'CyberfoxApp' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
